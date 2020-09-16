@@ -1,0 +1,30 @@
+<!--<Page>-->
+<!--    <CUS_NUMBER>2</CUS_NUMBER>-->
+<!--    <STRATEGY_ID>L01_01_01</STRATEGY_ID>-->
+<!--    <SEQ>1</SEQ>-->
+<!--    <PARAM_LIST>-->
+<!--        <PARAM>-->
+<!--            <PARAM_SEQ>1</PARAM_SEQ>-->
+<!--            <PARAM_VALUE>100</PARAM_VALUE>-->
+<!--        </PARAM>-->
+<!--        <PARAM>-->
+<!--            <PARAM_SEQ>2</PARAM_SEQ>-->
+<!--            <PARAM_VALUE>200</PARAM_VALUE>-->
+<!--        </PARAM>-->
+<!--    </PARAM_LIST>-->
+<!--</Page>-->
+<Page>
+    <PARAM_LIST>
+        <PARAM>
+            <PARAM_SEQ>1</PARAM_SEQ>
+            <PARAM_VALUE>100</PARAM_VALUE>
+        </PARAM>
+        <PARAM>
+            <PARAM_SEQ>2</PARAM_SEQ>
+            <PARAM_VALUE>200</PARAM_VALUE>
+        </PARAM>
+    </PARAM_LIST>
+    <CUS_NUMBER>2</CUS_NUMBER>
+    <STRATEGY_ID>L01_01_01</STRATEGY_ID>
+    <SEQ>1</SEQ>
+</Page>
